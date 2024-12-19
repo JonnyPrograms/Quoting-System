@@ -1,0 +1,16 @@
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\bin\Debug\net8.0\QuotesSystem.Repository.deps.json
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\bin\Debug\net8.0\QuotesSystem.Repository.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\bin\Debug\net8.0\QuotesSystem.Repository.pdb
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\bin\Debug\net8.0\QuotesSystem.Domain.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\bin\Debug\net8.0\QuotesSystem.Domain.pdb
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.AssemblyInfo.cs
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.sourcelink.json
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSy.058B6312.Up2Date
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\refint\QuotesSystem.Repository.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\QuotesSystem.Repository.pdb
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Repository\obj\Debug\net8.0\ref\QuotesSystem.Repository.dll
