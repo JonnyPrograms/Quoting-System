@@ -1,0 +1,35 @@
+﻿@using QuotesSystem.Domain.databases
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Quote Systems</h1>
+    @(Html.Kendo().Grid<Customer>()
+        .Name("grid")
+        .Columns(columns =>
+        {
+            columns.Bound(p => p.Id).Title("Id");
+            columns.Bound(p => p.Name).Title("Name");
+            columns.Bound(p => p.City).Title("City");
+            columns.Bound(p => p.Street).Title("Street");
+            columns.Bound(p => p.Contact).Title("Contact");
+        })
+        .Pageable()
+        .Resizable(r => r.Columns(true))
+        .Reorderable(r => r.Columns(true))
+        .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(15)
+        .Read(read => read.Action("ReadNames", "Home"))
+        ))
+</div>
+
+
+
+<script> 
+    $(document).ready(function () {
+       
+    });
+</script>

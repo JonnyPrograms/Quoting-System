@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuotesSystem.Website.props" />
+</Project>
