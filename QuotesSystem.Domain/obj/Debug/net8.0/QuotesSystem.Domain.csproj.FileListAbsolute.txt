@@ -1,0 +1,13 @@
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\bin\Debug\net8.0\QuotesSystem.Domain.deps.json
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\bin\Debug\net8.0\QuotesSystem.Domain.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\bin\Debug\net8.0\QuotesSystem.Domain.pdb
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.AssemblyInfo.cs
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.sourcelink.json
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\refint\QuotesSystem.Domain.dll
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\QuotesSystem.Domain.pdb
+C:\Users\danielstoner\Documents\GitHub\QuotesSystem\QuotesSystem.Domain\obj\Debug\net8.0\ref\QuotesSystem.Domain.dll
