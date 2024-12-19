@@ -1,0 +1,309 @@
+[
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "AssociateCommissionCalc",
+    "RelativePath": "api/Administration/AssociateCommissionCalc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "associate",
+        "Type": "QuotesSystem.Domain.databases.AssociateCommission",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "CreateAssociate",
+    "RelativePath": "api/Administration/CreateAssociate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newAssociate",
+        "Type": "QuotesSystem.Domain.databases.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "DeleteAssociate",
+    "RelativePath": "api/Administration/DeleteAssociate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteAssociate",
+        "Type": "QuotesSystem.Domain.databases.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "FinalizeQuote",
+    "RelativePath": "api/Administration/FinalizeQuote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "completeQuote",
+        "Type": "QuotesSystem.Domain.databases.Quote",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "ProcessQuote",
+    "RelativePath": "api/Administration/ProcessQuote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "processQuote",
+        "Type": "QuotesSystem.Domain.databases.LineItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "ReadAssociates",
+    "RelativePath": "api/Administration/ReadAssociates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "ReadCompletedQuotes",
+    "RelativePath": "api/Administration/ReadCompletedQuotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "ReadQuotes",
+    "RelativePath": "api/Administration/ReadQuotes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterQuote",
+        "Type": "QuotesSystem.Domain.databases.Filtered",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AdministrationController",
+    "Method": "UpdateAssociate",
+    "RelativePath": "api/Administration/UpdateAssociate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editAssociate",
+        "Type": "QuotesSystem.Domain.databases.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "AddCurrentLineItem",
+    "RelativePath": "api/Associate/AddCurrentLineItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newItem",
+        "Type": "QuotesSystem.Domain.databases.LineItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "CreateLineItems",
+    "RelativePath": "api/Associate/CreateLineItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lineItems",
+        "Type": "System.Collections.Generic.List\u00601[[QuotesSystem.Domain.databases.LineItem, QuotesSystem.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "CreateQuote",
+    "RelativePath": "api/Associate/CreateQuote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quote",
+        "Type": "QuotesSystem.Domain.databases.Quote",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "DeleteCurrentLineItem",
+    "RelativePath": "api/Associate/DeleteCurrentLineItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteItem",
+        "Type": "QuotesSystem.Domain.databases.LineItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "DeleteQuote",
+    "RelativePath": "api/Associate/DeleteQuote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deletedItem",
+        "Type": "QuotesSystem.Domain.databases.LineItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "ReadCurrentLineItems",
+    "RelativePath": "api/Associate/ReadCurrentLineItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lineItem",
+        "Type": "QuotesSystem.Domain.databases.LineItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "ReadQuote",
+    "RelativePath": "api/Associate/ReadQuotes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "QuotesSystem.Domain.databases.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "UpdateQuote",
+    "RelativePath": "api/Associate/UpdateQuote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateQuote",
+        "Type": "QuotesSystem.Domain.databases.Quote",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.AssociateController",
+    "Method": "validateUser",
+    "RelativePath": "api/Associate/validateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "QuotesSystem.Domain.databases.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.TestController",
+    "Method": "GetNames",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[QuotesSystem.Domain.databases.Customer, QuotesSystem.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetNames"
+  },
+  {
+    "ContainingType": "QuotesSystem.API.Controllers.TestController",
+    "Method": "Work",
+    "RelativePath": "api/Test/Work",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
